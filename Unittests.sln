@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burgerbude", "Burgerbude\Burgerbude.csproj", "{2451A5A2-107A-46F6-B25A-41945DF8BA13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerBude.Tests", "BurgerBude.Tests\BurgerBude.Tests.csproj", "{7A47F963-81C7-460E-9531-1E624291B1A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2451A5A2-107A-46F6-B25A-41945DF8BA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2451A5A2-107A-46F6-B25A-41945DF8BA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2451A5A2-107A-46F6-B25A-41945DF8BA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2451A5A2-107A-46F6-B25A-41945DF8BA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A47F963-81C7-460E-9531-1E624291B1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A47F963-81C7-460E-9531-1E624291B1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A47F963-81C7-460E-9531-1E624291B1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A47F963-81C7-460E-9531-1E624291B1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0CE88A-CCF3-439F-B4C0-6C4A9E8DCE74}
+	EndGlobalSection
+EndGlobal
